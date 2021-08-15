@@ -1,0 +1,11 @@
+CACHE MANIFEST 
+
+exploit.js
+restJB.js
+index.html
+int64.js
+jb.js
+load.js
+preload.js
+ps4.js
+utils.js
